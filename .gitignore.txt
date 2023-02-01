@@ -1,0 +1,2 @@
+#ignorar archivos de gdrive .ini
+*.ini
